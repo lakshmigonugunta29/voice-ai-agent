@@ -18,4 +18,4 @@ uvicorn app.main:app --reload --port 9000
 
 ## API
 
-http://127.0.0.1:9000/docs
+https://voice-ai-agent-production-0620.up.railway.app/docs
